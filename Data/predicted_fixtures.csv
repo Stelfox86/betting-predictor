@@ -1,0 +1,381 @@
+Date,HomeTeam_encoded,AwayTeam_encoded,HomeTeam_original,AwayTeam_original,Predicted Result
+15/08/2025 20:00,21,4,Liverpool,Bournemouth,H
+16/08/2025 12:30,1,27,Aston Villa,Newcastle,H
+16/08/2025 15:00,6,15,Brighton,Fulham,H
+16/08/2025 15:00,40,45,Sunderland,West Ham,A
+16/08/2025 15:00,42,8,Tottenham,Burnley,H
+16/08/2025 17:30,46,23,Wolves,Man City,H
+17/08/2025 14:00,29,5,Nott'm Forest,Brentford,D
+17/08/2025 14:00,10,12,Chelsea,Crystal Palace,H
+17/08/2025 16:30,24,0,Man United,Arsenal,A
+18/08/2025 20:00,19,14,Leeds,Everton,H
+23/08/2025 15:00,0,19,Arsenal,Leeds,H
+23/08/2025 15:00,4,46,Bournemouth,Wolves,A
+23/08/2025 15:00,5,1,Brentford,Aston Villa,A
+23/08/2025 15:00,8,40,Burnley,Sunderland,D
+23/08/2025 15:00,12,29,Crystal Palace,Nott'm Forest,D
+23/08/2025 15:00,14,6,Everton,Brighton,A
+23/08/2025 15:00,15,24,Fulham,Man United,A
+23/08/2025 15:00,23,42,Man City,Tottenham,D
+23/08/2025 15:00,27,21,Newcastle,Liverpool,D
+23/08/2025 15:00,45,10,West Ham,Chelsea,H
+30/08/2025 15:00,1,12,Aston Villa,Crystal Palace,H
+30/08/2025 15:00,6,23,Brighton,Man City,A
+30/08/2025 15:00,10,15,Chelsea,Fulham,H
+30/08/2025 15:00,19,27,Leeds,Newcastle,H
+30/08/2025 15:00,21,0,Liverpool,Arsenal,D
+30/08/2025 15:00,24,8,Man United,Burnley,D
+30/08/2025 15:00,29,45,Nott'm Forest,West Ham,H
+30/08/2025 15:00,40,5,Sunderland,Brentford,A
+30/08/2025 15:00,42,4,Tottenham,Bournemouth,H
+30/08/2025 15:00,46,14,Wolves,Everton,H
+13/09/2025 15:00,0,29,Arsenal,Nott'm Forest,H
+13/09/2025 15:00,4,6,Bournemouth,Brighton,H
+13/09/2025 15:00,5,10,Brentford,Chelsea,D
+13/09/2025 15:00,8,21,Burnley,Liverpool,A
+13/09/2025 15:00,12,40,Crystal Palace,Sunderland,H
+13/09/2025 15:00,14,1,Everton,Aston Villa,A
+13/09/2025 15:00,15,19,Fulham,Leeds,D
+13/09/2025 15:00,23,24,Man City,Man United,H
+13/09/2025 15:00,27,46,Newcastle,Wolves,H
+13/09/2025 15:00,45,42,West Ham,Tottenham,D
+20/09/2025 15:00,0,23,Arsenal,Man City,H
+20/09/2025 15:00,4,27,Bournemouth,Newcastle,H
+20/09/2025 15:00,6,42,Brighton,Tottenham,H
+20/09/2025 15:00,8,29,Burnley,Nott'm Forest,A
+20/09/2025 15:00,15,5,Fulham,Brentford,A
+20/09/2025 15:00,21,14,Liverpool,Everton,H
+20/09/2025 15:00,24,10,Man United,Chelsea,H
+20/09/2025 15:00,40,1,Sunderland,Aston Villa,A
+20/09/2025 15:00,45,12,West Ham,Crystal Palace,A
+20/09/2025 15:00,46,19,Wolves,Leeds,A
+27/09/2025 15:00,1,15,Aston Villa,Fulham,H
+27/09/2025 15:00,5,24,Brentford,Man United,D
+27/09/2025 15:00,10,6,Chelsea,Brighton,H
+27/09/2025 15:00,12,21,Crystal Palace,Liverpool,A
+27/09/2025 15:00,14,45,Everton,West Ham,D
+27/09/2025 15:00,19,4,Leeds,Bournemouth,A
+27/09/2025 15:00,23,8,Man City,Burnley,H
+27/09/2025 15:00,27,0,Newcastle,Arsenal,H
+27/09/2025 15:00,29,40,Nott'm Forest,Sunderland,H
+27/09/2025 15:00,42,46,Tottenham,Wolves,A
+04/10/2025 15:00,0,45,Arsenal,West Ham,A
+04/10/2025 15:00,1,8,Aston Villa,Burnley,H
+04/10/2025 15:00,4,15,Bournemouth,Fulham,H
+04/10/2025 15:00,5,23,Brentford,Man City,A
+04/10/2025 15:00,10,21,Chelsea,Liverpool,D
+04/10/2025 15:00,14,12,Everton,Crystal Palace,H
+04/10/2025 15:00,19,42,Leeds,Tottenham,H
+04/10/2025 15:00,24,40,Man United,Sunderland,A
+04/10/2025 15:00,27,29,Newcastle,Nott'm Forest,H
+04/10/2025 15:00,46,6,Wolves,Brighton,A
+18/10/2025 15:00,6,27,Brighton,Newcastle,H
+18/10/2025 15:00,8,19,Burnley,Leeds,D
+18/10/2025 15:00,12,4,Crystal Palace,Bournemouth,D
+18/10/2025 15:00,15,0,Fulham,Arsenal,D
+18/10/2025 15:00,21,24,Liverpool,Man United,D
+18/10/2025 15:00,23,14,Man City,Everton,H
+18/10/2025 15:00,29,10,Nott'm Forest,Chelsea,A
+18/10/2025 15:00,40,46,Sunderland,Wolves,A
+18/10/2025 15:00,42,1,Tottenham,Aston Villa,H
+18/10/2025 15:00,45,5,West Ham,Brentford,A
+25/10/2025 15:00,0,12,Arsenal,Crystal Palace,H
+25/10/2025 15:00,1,23,Aston Villa,Man City,H
+25/10/2025 15:00,4,29,Bournemouth,Nott'm Forest,D
+25/10/2025 15:00,5,21,Brentford,Liverpool,A
+25/10/2025 15:00,10,40,Chelsea,Sunderland,A
+25/10/2025 15:00,14,42,Everton,Tottenham,H
+25/10/2025 15:00,19,45,Leeds,West Ham,H
+25/10/2025 15:00,24,6,Man United,Brighton,A
+25/10/2025 15:00,27,15,Newcastle,Fulham,A
+25/10/2025 15:00,46,8,Wolves,Burnley,H
+01/11/2025 15:00,6,19,Brighton,Leeds,D
+01/11/2025 15:00,8,0,Burnley,Arsenal,A
+01/11/2025 15:00,12,5,Crystal Palace,Brentford,H
+01/11/2025 15:00,15,46,Fulham,Wolves,A
+01/11/2025 15:00,21,1,Liverpool,Aston Villa,H
+01/11/2025 15:00,23,4,Man City,Bournemouth,H
+01/11/2025 15:00,29,24,Nott'm Forest,Man United,H
+01/11/2025 15:00,40,14,Sunderland,Everton,H
+01/11/2025 15:00,42,10,Tottenham,Chelsea,A
+01/11/2025 15:00,45,27,West Ham,Newcastle,A
+08/11/2025 15:00,1,4,Aston Villa,Bournemouth,H
+08/11/2025 15:00,5,27,Brentford,Newcastle,H
+08/11/2025 15:00,10,46,Chelsea,Wolves,H
+08/11/2025 15:00,12,6,Crystal Palace,Brighton,H
+08/11/2025 15:00,14,15,Everton,Fulham,A
+08/11/2025 15:00,23,21,Man City,Liverpool,D
+08/11/2025 15:00,29,19,Nott'm Forest,Leeds,D
+08/11/2025 15:00,40,0,Sunderland,Arsenal,A
+08/11/2025 15:00,42,24,Tottenham,Man United,H
+08/11/2025 15:00,45,8,West Ham,Burnley,D
+22/11/2025 15:00,0,42,Arsenal,Tottenham,H
+22/11/2025 15:00,4,45,Bournemouth,West Ham,D
+22/11/2025 15:00,6,5,Brighton,Brentford,H
+22/11/2025 15:00,8,10,Burnley,Chelsea,A
+22/11/2025 15:00,15,40,Fulham,Sunderland,H
+22/11/2025 15:00,19,1,Leeds,Aston Villa,D
+22/11/2025 15:00,21,29,Liverpool,Nott'm Forest,H
+22/11/2025 15:00,24,14,Man United,Everton,H
+22/11/2025 15:00,27,23,Newcastle,Man City,D
+22/11/2025 15:00,46,12,Wolves,Crystal Palace,A
+29/11/2025 15:00,1,46,Aston Villa,Wolves,H
+29/11/2025 15:00,5,8,Brentford,Burnley,H
+29/11/2025 15:00,10,0,Chelsea,Arsenal,D
+29/11/2025 15:00,12,24,Crystal Palace,Man United,D
+29/11/2025 15:00,14,27,Everton,Newcastle,H
+29/11/2025 15:00,23,19,Man City,Leeds,H
+29/11/2025 15:00,29,6,Nott'm Forest,Brighton,H
+29/11/2025 15:00,40,4,Sunderland,Bournemouth,A
+29/11/2025 15:00,42,15,Tottenham,Fulham,H
+29/11/2025 15:00,45,21,West Ham,Liverpool,A
+03/12/2025 20:00,0,5,Arsenal,Brentford,H
+03/12/2025 20:00,4,14,Bournemouth,Everton,H
+03/12/2025 20:00,6,1,Brighton,Aston Villa,A
+03/12/2025 20:00,8,12,Burnley,Crystal Palace,A
+03/12/2025 20:00,15,23,Fulham,Man City,A
+03/12/2025 20:00,19,10,Leeds,Chelsea,H
+03/12/2025 20:00,21,40,Liverpool,Sunderland,H
+03/12/2025 20:00,24,45,Man United,West Ham,H
+03/12/2025 20:00,27,42,Newcastle,Tottenham,H
+03/12/2025 20:00,46,29,Wolves,Nott'm Forest,D
+06/12/2025 15:00,1,0,Aston Villa,Arsenal,A
+06/12/2025 15:00,4,10,Bournemouth,Chelsea,D
+06/12/2025 15:00,6,45,Brighton,West Ham,A
+06/12/2025 15:00,14,29,Everton,Nott'm Forest,H
+06/12/2025 15:00,15,12,Fulham,Crystal Palace,D
+06/12/2025 15:00,19,21,Leeds,Liverpool,H
+06/12/2025 15:00,23,40,Man City,Sunderland,A
+06/12/2025 15:00,27,8,Newcastle,Burnley,H
+06/12/2025 15:00,42,5,Tottenham,Brentford,H
+06/12/2025 15:00,46,24,Wolves,Man United,H
+13/12/2025 15:00,0,46,Arsenal,Wolves,H
+13/12/2025 15:00,5,19,Brentford,Leeds,H
+13/12/2025 15:00,8,15,Burnley,Fulham,D
+13/12/2025 15:00,10,14,Chelsea,Everton,H
+13/12/2025 15:00,12,23,Crystal Palace,Man City,A
+13/12/2025 15:00,21,6,Liverpool,Brighton,H
+13/12/2025 15:00,24,4,Man United,Bournemouth,A
+13/12/2025 15:00,29,42,Nott'm Forest,Tottenham,H
+13/12/2025 15:00,40,27,Sunderland,Newcastle,H
+13/12/2025 15:00,45,1,West Ham,Aston Villa,D
+20/12/2025 15:00,1,24,Aston Villa,Man United,A
+20/12/2025 15:00,4,8,Bournemouth,Burnley,H
+20/12/2025 15:00,6,40,Brighton,Sunderland,H
+20/12/2025 15:00,14,0,Everton,Arsenal,D
+20/12/2025 15:00,15,29,Fulham,Nott'm Forest,H
+20/12/2025 15:00,19,12,Leeds,Crystal Palace,H
+20/12/2025 15:00,23,45,Man City,West Ham,H
+20/12/2025 15:00,27,10,Newcastle,Chelsea,H
+20/12/2025 15:00,42,21,Tottenham,Liverpool,A
+20/12/2025 15:00,46,5,Wolves,Brentford,A
+27/12/2025 15:00,0,6,Arsenal,Brighton,D
+27/12/2025 15:00,5,4,Brentford,Bournemouth,D
+27/12/2025 15:00,8,14,Burnley,Everton,A
+27/12/2025 15:00,10,1,Chelsea,Aston Villa,A
+27/12/2025 15:00,12,42,Crystal Palace,Tottenham,H
+27/12/2025 15:00,21,46,Liverpool,Wolves,H
+27/12/2025 15:00,24,27,Man United,Newcastle,H
+27/12/2025 15:00,29,23,Nott'm Forest,Man City,A
+27/12/2025 15:00,40,19,Sunderland,Leeds,D
+27/12/2025 15:00,45,15,West Ham,Fulham,A
+30/12/2025 20:00,0,1,Arsenal,Aston Villa,A
+30/12/2025 20:00,5,42,Brentford,Tottenham,A
+30/12/2025 20:00,8,27,Burnley,Newcastle,A
+30/12/2025 20:00,10,4,Chelsea,Bournemouth,H
+30/12/2025 20:00,12,15,Crystal Palace,Fulham,A
+30/12/2025 20:00,21,19,Liverpool,Leeds,H
+30/12/2025 20:00,24,46,Man United,Wolves,H
+30/12/2025 20:00,29,14,Nott'm Forest,Everton,A
+30/12/2025 20:00,40,23,Sunderland,Man City,H
+30/12/2025 20:00,45,6,West Ham,Brighton,D
+03/01/2026 15:00,1,29,Aston Villa,Nott'm Forest,H
+03/01/2026 15:00,4,0,Bournemouth,Arsenal,A
+03/01/2026 15:00,6,8,Brighton,Burnley,D
+03/01/2026 15:00,14,5,Everton,Brentford,H
+03/01/2026 15:00,15,21,Fulham,Liverpool,A
+03/01/2026 15:00,19,24,Leeds,Man United,H
+03/01/2026 15:00,23,10,Man City,Chelsea,H
+03/01/2026 15:00,27,12,Newcastle,Crystal Palace,H
+03/01/2026 15:00,42,40,Tottenham,Sunderland,H
+03/01/2026 15:00,46,45,Wolves,West Ham,H
+07/01/2026 20:00,0,21,Arsenal,Liverpool,H
+07/01/2026 20:00,4,42,Bournemouth,Tottenham,A
+07/01/2026 20:00,5,40,Brentford,Sunderland,H
+07/01/2026 20:00,8,24,Burnley,Man United,A
+07/01/2026 20:00,12,1,Crystal Palace,Aston Villa,H
+07/01/2026 20:00,14,46,Everton,Wolves,A
+07/01/2026 20:00,15,10,Fulham,Chelsea,A
+07/01/2026 20:00,23,6,Man City,Brighton,H
+07/01/2026 20:00,27,19,Newcastle,Leeds,H
+07/01/2026 20:00,45,29,West Ham,Nott'm Forest,A
+17/01/2026 15:00,1,14,Aston Villa,Everton,H
+17/01/2026 15:00,6,4,Brighton,Bournemouth,H
+17/01/2026 15:00,10,5,Chelsea,Brentford,A
+17/01/2026 15:00,19,15,Leeds,Fulham,H
+17/01/2026 15:00,21,8,Liverpool,Burnley,H
+17/01/2026 15:00,24,23,Man United,Man City,A
+17/01/2026 15:00,29,0,Nott'm Forest,Arsenal,D
+17/01/2026 15:00,40,12,Sunderland,Crystal Palace,D
+17/01/2026 15:00,42,45,Tottenham,West Ham,A
+17/01/2026 15:00,46,27,Wolves,Newcastle,D
+24/01/2026 15:00,0,24,Arsenal,Man United,H
+24/01/2026 15:00,4,21,Bournemouth,Liverpool,A
+24/01/2026 15:00,5,29,Brentford,Nott'm Forest,H
+24/01/2026 15:00,8,42,Burnley,Tottenham,A
+24/01/2026 15:00,12,10,Crystal Palace,Chelsea,A
+24/01/2026 15:00,14,19,Everton,Leeds,D
+24/01/2026 15:00,15,6,Fulham,Brighton,H
+24/01/2026 15:00,23,46,Man City,Wolves,H
+24/01/2026 15:00,27,1,Newcastle,Aston Villa,H
+24/01/2026 15:00,45,40,West Ham,Sunderland,D
+31/01/2026 15:00,1,5,Aston Villa,Brentford,D
+31/01/2026 15:00,6,14,Brighton,Everton,D
+31/01/2026 15:00,10,45,Chelsea,West Ham,H
+31/01/2026 15:00,19,0,Leeds,Arsenal,A
+31/01/2026 15:00,21,27,Liverpool,Newcastle,H
+31/01/2026 15:00,24,15,Man United,Fulham,H
+31/01/2026 15:00,29,12,Nott'm Forest,Crystal Palace,H
+31/01/2026 15:00,40,8,Sunderland,Burnley,H
+31/01/2026 15:00,42,23,Tottenham,Man City,A
+31/01/2026 15:00,46,4,Wolves,Bournemouth,A
+07/02/2026 15:00,0,40,Arsenal,Sunderland,H
+07/02/2026 15:00,4,1,Bournemouth,Aston Villa,A
+07/02/2026 15:00,6,12,Brighton,Crystal Palace,A
+07/02/2026 15:00,8,45,Burnley,West Ham,A
+07/02/2026 15:00,15,14,Fulham,Everton,A
+07/02/2026 15:00,19,29,Leeds,Nott'm Forest,H
+07/02/2026 15:00,21,23,Liverpool,Man City,D
+07/02/2026 15:00,24,42,Man United,Tottenham,D
+07/02/2026 15:00,27,5,Newcastle,Brentford,H
+07/02/2026 15:00,46,10,Wolves,Chelsea,H
+11/02/2026 20:00,1,6,Aston Villa,Brighton,H
+11/02/2026 20:00,5,0,Brentford,Arsenal,A
+11/02/2026 20:00,10,19,Chelsea,Leeds,A
+11/02/2026 20:00,12,8,Crystal Palace,Burnley,H
+11/02/2026 20:00,14,4,Everton,Bournemouth,A
+11/02/2026 20:00,23,15,Man City,Fulham,H
+11/02/2026 20:00,29,46,Nott'm Forest,Wolves,D
+11/02/2026 20:00,40,21,Sunderland,Liverpool,A
+11/02/2026 20:00,42,27,Tottenham,Newcastle,H
+11/02/2026 20:00,45,24,West Ham,Man United,H
+21/02/2026 15:00,1,19,Aston Villa,Leeds,D
+21/02/2026 15:00,5,6,Brentford,Brighton,D
+21/02/2026 15:00,10,8,Chelsea,Burnley,D
+21/02/2026 15:00,12,46,Crystal Palace,Wolves,H
+21/02/2026 15:00,14,24,Everton,Man United,A
+21/02/2026 15:00,23,27,Man City,Newcastle,H
+21/02/2026 15:00,29,21,Nott'm Forest,Liverpool,A
+21/02/2026 15:00,40,15,Sunderland,Fulham,A
+21/02/2026 15:00,42,0,Tottenham,Arsenal,A
+21/02/2026 15:00,45,4,West Ham,Bournemouth,D
+28/02/2026 15:00,0,10,Arsenal,Chelsea,H
+28/02/2026 15:00,4,40,Bournemouth,Sunderland,H
+28/02/2026 15:00,6,29,Brighton,Nott'm Forest,H
+28/02/2026 15:00,8,5,Burnley,Brentford,H
+28/02/2026 15:00,15,42,Fulham,Tottenham,H
+28/02/2026 15:00,19,23,Leeds,Man City,H
+28/02/2026 15:00,21,45,Liverpool,West Ham,H
+28/02/2026 15:00,24,12,Man United,Crystal Palace,A
+28/02/2026 15:00,27,14,Newcastle,Everton,A
+28/02/2026 15:00,46,1,Wolves,Aston Villa,D
+04/03/2026 20:00,1,10,Aston Villa,Chelsea,H
+04/03/2026 20:00,4,5,Bournemouth,Brentford,A
+04/03/2026 20:00,6,0,Brighton,Arsenal,A
+04/03/2026 20:00,14,8,Everton,Burnley,H
+04/03/2026 20:00,15,45,Fulham,West Ham,H
+04/03/2026 20:00,19,40,Leeds,Sunderland,D
+04/03/2026 20:00,23,29,Man City,Nott'm Forest,H
+04/03/2026 20:00,27,24,Newcastle,Man United,H
+04/03/2026 20:00,42,12,Tottenham,Crystal Palace,A
+04/03/2026 20:00,46,21,Wolves,Liverpool,A
+14/03/2026 15:00,0,14,Arsenal,Everton,D
+14/03/2026 15:00,5,46,Brentford,Wolves,A
+14/03/2026 15:00,8,4,Burnley,Bournemouth,A
+14/03/2026 15:00,10,27,Chelsea,Newcastle,H
+14/03/2026 15:00,12,19,Crystal Palace,Leeds,H
+14/03/2026 15:00,21,42,Liverpool,Tottenham,H
+14/03/2026 15:00,24,1,Man United,Aston Villa,H
+14/03/2026 15:00,29,15,Nott'm Forest,Fulham,A
+14/03/2026 15:00,40,6,Sunderland,Brighton,A
+14/03/2026 15:00,45,23,West Ham,Man City,A
+21/03/2026 15:00,1,45,Aston Villa,West Ham,H
+21/03/2026 15:00,4,24,Bournemouth,Man United,D
+21/03/2026 15:00,6,21,Brighton,Liverpool,D
+21/03/2026 15:00,14,10,Everton,Chelsea,H
+21/03/2026 15:00,15,8,Fulham,Burnley,A
+21/03/2026 15:00,19,5,Leeds,Brentford,A
+21/03/2026 15:00,23,12,Man City,Crystal Palace,H
+21/03/2026 15:00,27,40,Newcastle,Sunderland,D
+21/03/2026 15:00,42,29,Tottenham,Nott'm Forest,H
+21/03/2026 15:00,46,0,Wolves,Arsenal,A
+11/04/2026 15:00,0,4,Arsenal,Bournemouth,H
+11/04/2026 15:00,5,14,Brentford,Everton,A
+11/04/2026 15:00,8,6,Burnley,Brighton,D
+11/04/2026 15:00,10,23,Chelsea,Man City,D
+11/04/2026 15:00,12,27,Crystal Palace,Newcastle,D
+11/04/2026 15:00,21,15,Liverpool,Fulham,H
+11/04/2026 15:00,24,19,Man United,Leeds,H
+11/04/2026 15:00,29,1,Nott'm Forest,Aston Villa,H
+11/04/2026 15:00,40,42,Sunderland,Tottenham,A
+11/04/2026 15:00,45,46,West Ham,Wolves,H
+18/04/2026 15:00,1,40,Aston Villa,Sunderland,H
+18/04/2026 15:00,5,15,Brentford,Fulham,A
+18/04/2026 15:00,10,24,Chelsea,Man United,H
+18/04/2026 15:00,12,45,Crystal Palace,West Ham,H
+18/04/2026 15:00,14,21,Everton,Liverpool,D
+18/04/2026 15:00,19,46,Leeds,Wolves,A
+18/04/2026 15:00,23,0,Man City,Arsenal,D
+18/04/2026 15:00,27,4,Newcastle,Bournemouth,A
+18/04/2026 15:00,29,8,Nott'm Forest,Burnley,D
+18/04/2026 15:00,42,6,Tottenham,Brighton,A
+25/04/2026 15:00,0,27,Arsenal,Newcastle,H
+25/04/2026 15:00,4,19,Bournemouth,Leeds,A
+25/04/2026 15:00,6,10,Brighton,Chelsea,A
+25/04/2026 15:00,8,23,Burnley,Man City,A
+25/04/2026 15:00,15,1,Fulham,Aston Villa,A
+25/04/2026 15:00,21,12,Liverpool,Crystal Palace,A
+25/04/2026 15:00,24,5,Man United,Brentford,H
+25/04/2026 15:00,40,29,Sunderland,Nott'm Forest,H
+25/04/2026 15:00,45,14,West Ham,Everton,D
+25/04/2026 15:00,46,42,Wolves,Tottenham,H
+02/05/2026 15:00,0,15,Arsenal,Fulham,D
+02/05/2026 15:00,1,42,Aston Villa,Tottenham,H
+02/05/2026 15:00,4,12,Bournemouth,Crystal Palace,D
+02/05/2026 15:00,5,45,Brentford,West Ham,H
+02/05/2026 15:00,10,29,Chelsea,Nott'm Forest,A
+02/05/2026 15:00,14,23,Everton,Man City,A
+02/05/2026 15:00,19,8,Leeds,Burnley,A
+02/05/2026 15:00,24,21,Man United,Liverpool,D
+02/05/2026 15:00,27,6,Newcastle,Brighton,A
+02/05/2026 15:00,46,40,Wolves,Sunderland,H
+09/05/2026 15:00,6,46,Brighton,Wolves,D
+09/05/2026 15:00,8,1,Burnley,Aston Villa,A
+09/05/2026 15:00,12,14,Crystal Palace,Everton,A
+09/05/2026 15:00,15,4,Fulham,Bournemouth,H
+09/05/2026 15:00,21,10,Liverpool,Chelsea,H
+09/05/2026 15:00,23,5,Man City,Brentford,H
+09/05/2026 15:00,29,27,Nott'm Forest,Newcastle,A
+09/05/2026 15:00,40,24,Sunderland,Man United,H
+09/05/2026 15:00,42,19,Tottenham,Leeds,A
+09/05/2026 15:00,45,0,West Ham,Arsenal,A
+17/05/2026 15:00,0,8,Arsenal,Burnley,H
+17/05/2026 15:00,1,21,Aston Villa,Liverpool,D
+17/05/2026 15:00,4,23,Bournemouth,Man City,A
+17/05/2026 15:00,5,12,Brentford,Crystal Palace,H
+17/05/2026 15:00,10,42,Chelsea,Tottenham,H
+17/05/2026 15:00,14,40,Everton,Sunderland,H
+17/05/2026 15:00,19,6,Leeds,Brighton,H
+17/05/2026 15:00,24,29,Man United,Nott'm Forest,H
+17/05/2026 15:00,27,45,Newcastle,West Ham,H
+17/05/2026 15:00,46,15,Wolves,Fulham,H
+24/05/2026 16:00,6,24,Brighton,Man United,A
+24/05/2026 16:00,8,46,Burnley,Wolves,D
+24/05/2026 16:00,12,0,Crystal Palace,Arsenal,A
+24/05/2026 16:00,15,27,Fulham,Newcastle,H
+24/05/2026 16:00,21,5,Liverpool,Brentford,H
+24/05/2026 16:00,23,1,Man City,Aston Villa,H
+24/05/2026 16:00,29,4,Nott'm Forest,Bournemouth,D
+24/05/2026 16:00,40,10,Sunderland,Chelsea,A
+24/05/2026 16:00,42,14,Tottenham,Everton,H
+24/05/2026 16:00,45,19,West Ham,Leeds,H
